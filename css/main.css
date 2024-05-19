@@ -3035,8 +3035,8 @@ form textarea:required:valid {
 }
 
 .logo__image {
-  width: 141.8px;
-  height: 60px;
+  width: 140px;
+  height: 85px;
 }
 .logo__image svg {
   width: 100%;
@@ -3044,8 +3044,8 @@ form textarea:required:valid {
 }
 @media only screen and (min-width: 1400px) {
   .logo__image {
-    width: 75px;
-    height: 75px;
+    width: 145px;
+    height: 90px;
   }
 }
 
